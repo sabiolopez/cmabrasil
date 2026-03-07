@@ -39,7 +39,7 @@ export default function ProgramaPage() {
                         <p>Não é preciso acreditar em nada antes de começar. Muitos chegaram sem certezas e foram encontrando o próprio caminho ao longo do processo.</p>
                     </>
                 }
-                image="https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2670&auto=format&fit=crop"
+                image="/12steps-v2.png"
             />
 
             <section className="py-24 px-6 bg-cma-bg">
